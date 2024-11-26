@@ -33,5 +33,7 @@ For a sample run, you can use the "sample" folder included in this repository.
 
 Command:  `python3 sbomatic.py sample`
 
+![image](https://github.com/user-attachments/assets/4f50914a-5543-455a-8228-7cf7f46f1fa9)
+
 
 
